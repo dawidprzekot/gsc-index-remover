@@ -123,6 +123,7 @@ gsc-url-remover/
 
 ## ⚠️ Dobre praktyki
 
+- **Musisz mieć GSC w języku polskim**
 - **Nie przełączaj się na inną kartę** w trakcie procesu — karta GSC musi być aktywna
 - Ustaw **rozsądne opóźnienie** (3–8 sekund), aby nie obciążać GSC
 - Przed uruchomieniem **zaloguj się** do Google Search Console
