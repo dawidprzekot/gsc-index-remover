@@ -5,7 +5,7 @@
 <h1 align="center">🔍 GSC URL Remover</h1>
 
 <p align="center">
-  <strong>Automatyzacja masowego usuwania URL z Google Search Console</strong>
+  <strong>Automatyzacja masowego usuwania URLi z indexu Google w Google Search Console</strong>
 </p>
 
 <p align="center">
